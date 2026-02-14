@@ -1,0 +1,7 @@
+{
+  "name": "Bella Notte - Pizzaria Gourmet",
+  "description": "Uma experiência gastronômica de elite. Pizzas artesanais com ingredientes premium, interface sofisticada e sistema de pedidos via WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
